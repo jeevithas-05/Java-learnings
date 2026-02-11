@@ -36,7 +36,7 @@ class user_input_float{
 
 class addition_of_two_numbers{
     public static void main(String[] args) {
-        scanner scn = new Scanner(System.in);
+        Scanner scn = new Scanner(System.in);
         System.out.println("Enter first number:");
         int a = scn.nextInt();
         System.out.println("Enter second number:");
